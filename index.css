@@ -1,0 +1,77 @@
+body{
+    background-color: #c0f2f2;
+     max-width: 100%;
+     overflow-x: hidden;
+}
+
+.my-nav{
+    background-color: #00ccbb;
+}
+
+.my-nav-logo{
+    height: 60px;
+    margin-top: 0px ;
+}
+
+.my-icon{
+    height: 50px;
+}
+
+.my-header{
+    font-size: 60pt;
+    text-align: center;
+}
+
+.my-section{
+    background-color: #00ccbb;
+}
+
+.my-sub-p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.my-col{
+    font-size: 18pt;
+    border-radius: 30px;
+    border: double;
+    background: rgba(192, 242, 229 , 0.6);
+}
+
+.p-indent{
+    text-indent: 50px;
+}
+
+.my-card{
+    width: 400px;
+    background-color: whitesmoke;
+    color: #00ccbb;
+ }
+
+ .card-img-top {
+    height: 40vh;
+    object-fit: cover;
+}
+
+.my-btn{
+    background-color: #00ccbb;
+    color: whitesmoke;
+}
+
+button:hover{
+    background-color: whitesmoke;
+}
+
+#info{
+    text-align: center;
+    font-size: 28pt;
+}
+
+#comment{
+    text-align: center;
+    font-size: 28pt;
+}
+
+.my-cardtitle{
+    background: rgba(192, 242, 229 , 0.6) ;
+}
